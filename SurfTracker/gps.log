@@ -1,0 +1,3309 @@
+$GPR,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+⸮$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-G60xx  00040007 FF7FFFFFp*53
+$GPTXT,01,01,02,ROM CORE 7.03 (45969) Mar 17 2011 16:18:34*59
+$GPTXT,01,01,02,ANTSUPERV=AC SD PDoS SR*20
+$GPTXT,01,01,02,ANTSTATUS=DONTKNOW*33
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPTXT,01,01,02,ANTSTATUS=INIT*25
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPTXT,01,01,02,ANTSTATUS=OK*3B
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+⸮$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-G60xx  00040007 FF7FFFFFp*53
+$GPTXT,01,01,02,ROM CORE 7.03 (45969) Mar 17 2011 16:18:34*59
+$GPTXT,01,01,02,ANTSUPERV=AC SD PDoS SR*20
+$GPTXT,01,01,02,ANTSTATUS=DONTKNOW*33
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GP⸮$GPTXT,01,01,02,u-blox ag - www.u-blox.com*⸮$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-⸮⸮$GPT⸮$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-G60xx  00040007 FF7FFFFFp*53
+$GPTXT,01,01,02,ROM CORE 7.03 (45969) Mar 17 2011 16:18:34*59
+$GPTXT,01,01,02,ANTSUPERV=AC SD PDoS SR*20
+$GPTXT,01,01,02,ANTSTATUS=DONTKNOW*33
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPTXT,01,01,02,ANTSTATUS=INIT*25
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,00*79
+$GPGLL,,,,,,V,N*64
+$GPTXT,01,01,02,ANTSTATUS=OK*3B
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,01,12,,,37*7F
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,01,12,,,43*7C
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,01,12,,,44*7B
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,01,12,,,46*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,01,12,,,46*79
+$GPGLL,,,,,,V,N*64
+$GPRMC,,V,,,,,,,,,,N*53
+$GPVTG,,,,,,,,,N*30
+$GPGGA,,,,,,0,00,99.99,,,,,,*48
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,01,12,,,45*7A
+$GPGLL,,,,,,V,N*64
+$GPRMC,140425.45,V,,,,,,,,,,N*7A
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140425.45,,,,,0,00,99.99,,,,,,*61
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,01,12,,,35*7D
+$GPGLL,,,,,140425.45,V,N*4D
+$GPRMC,140427.00,V,,,,,,,,,,N*79
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140427.00,,,,,0,00,99.99,,,,,,*62
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,01,12,,,36*7E
+$GPGLL,,,,,140427.00,V,N*4E
+$GPRMC,140428.00,V,,,,,,,,,,N*76
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140428.00,,,,,0,00,99.99,,,,,,*6D
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,03,12,,,36,15,,,40,25,,,40*7F
+$GPGLL,,,,,140428.00,V,N*41
+$GPRMC,140429.00,V,,,,,,,,,,N*77
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140429.00,,,,,0,00,99.99,,,,,,*6C
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,03,12,,,36,15,,,39,25,,,42*73
+$GPGLL,,,,,140429.00,V,N*40
+$GPRMC,140430.00,V,,,,,,,,,,N*7F
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140430.00,,,,,0,00,99.99,,,,,,*64
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,03,12,,,35,15,,,41,25,,,44*79
+$GPGLL,,,,,140430.00,V,N*48
+$GPRMC,140431.00,V,,,,,,,,,,N*7E
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140431.00,,,,,0,00,99.99,,,,,,*65
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,1,1,03,12,,,35,15,,,43,25,,,44*7B
+$GPGLL,,,,,140431.00,V,N*49
+$GPRMC,140432.00,V,,,,,,,,,,N*7D
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140432.00,,,,,0,00,99.99,,,,,,*66
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,36,15,,,43,23,,,38,24,,,32*77
+$GPGSV,2,2,05,25,,,44*7B
+$GPGLL,,,,,140432.00,V,N*4A
+$GPRMC,140433.00,V,,,,,,,,,,N*7C
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140433.00,,,,,0,00,99.99,,,,,,*67
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,36,15,,,43,23,,,37,24,,,32*78
+$GPGSV,2,2,05,25,,,44*7B
+$GPGLL,,,,,140433.00,V,N*4B
+$GPRMC,140434.00,V,,,,,,,,,,N*7B
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140434.00,,,,,0,00,99.99,,,,,,*60
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,36,15,,,43,23,,,37,24,,,33*79
+$GPGSV,2,2,05,25,,,44*7B
+$GPGLL,,,,,140434.00,V,N*4C
+$GPRMC,140435.00,V,,,,,,,,,,N*7A
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140435.00,,,,,0,00,99.99,,,,,,*61
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,37,15,,,43,23,,,37,24,,,33*78
+$GPGSV,2,2,05,25,,,44*7B
+$GPGLL,,,,,140435.00,V,N*4D
+$GPRMC,140436.00,V,,,,,,,,,,N*79
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140436.00,,,,,0,00,99.99,,,,,,*62
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,37,15,,,43,23,,,37,24,,,33*78
+$GPGSV,2,2,05,25,,,44*7B
+$GPGLL,,,,,140436.00,V,N*4E
+$GPRMC,140437.00,V,,,,,,,,,,N*78
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140437.00,,,,,0,00,99.99,,,,,,*63
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,36,15,,,42,23,,,38,24,,,33*77
+$GPGSV,2,2,05,25,,,44*7B
+$GPGLL,,,,,140437.00,V,N*4F
+$GPRMC,140438.00,V,,,,,,,,,,N*77
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140438.00,,,,,0,00,99.99,,,,,,*6C
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,44,15,,,40,23,,,38,24,,,33*70
+$GPGSV,2,2,05,25,,,29*70
+$GPGLL,,,,,140438.00,V,N*40
+$GPRMC,140439.00,V,,,,,,,,,,N*76
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140439.00,,,,,0,00,99.99,,,,,,*6D
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,44,15,,,41,23,,,33,24,,,36*7F
+$GPGSV,2,2,05,25,,,39*71
+$GPGLL,,,,,140439.00,V,N*41
+$GPRMC,140440.00,V,,,,,,,,,,N*78
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140440.00,,,,,0,00,99.99,,,,,,*63
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,44,15,,,40,23,,,34,24,,,43*7B
+$GPGSV,2,2,05,25,,,37*7F
+$GPGLL,,,,,140440.00,V,N*4F
+$GPRMC,140441.00,V,,,,,,,,,,N*79
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140441.00,,,,,0,00,99.99,,,,,,*62
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,46,15,,,38,23,,,30,24,,,43*72
+$GPGSV,2,2,05,25,,,30*78
+$GPGLL,,,,,140441.00,V,N*4E
+$GPRMC,140442.00,V,,,,,,,,,,N*7A
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140442.00,,,,,0,00,99.99,,,,,,*61
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,45,15,,,38,23,,,37,24,,,43*76
+$GPGSV,2,2,05,25,,,34*7C
+$GPGLL,,,,,140442.00,V,N*4D
+$GPRMC,140443.00,V,,,,,,,,,,N*7B
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140443.00,,,,,0,00,99.99,,,,,,*60
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,05,12,,,44,15,,,37,23,,,39,24,,,45*70
+$GPGSV,2,2,05,25,,,34*7C
+$GPGLL,,,,,140443.00,V,N*4C
+$GPRMC,140444.00,V,,,,,,,,,,N*7C
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140444.00,,,,,0,00,99.99,,,,,,*67
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,10,,,41,12,,,45,15,,,39,23,,,39*7F
+$GPGSV,2,2,06,24,,,44,25,,,30*7D
+$GPGLL,,,,,140444.00,V,N*4B
+$GPRMC,140445.00,V,,,,,,,,,,N*7D
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140445.00,,,,,0,00,99.99,,,,,,*66
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,10,,,39,12,,,44,15,,,39,23,,,39*71
+$GPGSV,2,2,06,24,,,45,25,,,29*74
+$GPGLL,,,,,140445.00,V,N*4A
+$GPRMC,140446.00,V,,,,,,,,,,N*7E
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140446.00,,,,,0,00,99.99,,,,,,*65
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,10,,,39,12,,,44,15,,,36,23,,,39*7E
+$GPGSV,2,2,06,24,,,45,25,,,33*7F
+$GPGLL,,,,,140446.00,V,N*49
+$GPRMC,140447.00,V,,,,,,,241222,,,N*7A
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140447.00,,,,,0,00,99.99,,,,,,*64
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,08,07,,,21,10,,,37,12,,,43,15,,,38*78
+$GPGSV,2,2,08,19,,,43,23,,,35,24,,,44,25,,,33*78
+$GPGLL,,,,,140447.00,V,N*48
+$GPRMC,140448.00,V,,,,,,,241222,,,N*75
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140448.00,,,,,0,00,99.99,,,,,,*6B
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,10,,,39,12,,,43,15,,,37,19,,,45*7B
+$GPGSV,2,2,07,23,,,35,24,,,45,25,,,33*79
+$GPGLL,,,,,140448.00,V,N*47
+$GPRMC,140449.00,V,,,,,,,241222,,,N*74
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140449.00,,,,,0,00,99.99,,,,,,*6A
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,10,,,37,12,,,40,15,,,39,19,,,44*79
+$GPGSV,2,2,07,23,,,29,24,,,45,25,,,36*71
+$GPGLL,,,,,140449.00,V,N*46
+$GPRMC,140450.00,V,,,,,,,241222,,,N*7C
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140450.00,,,,,0,00,99.99,,,,,,*62
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,10,,,41,12,,,41,15,,,40,19,,,41*72
+$GPGSV,2,2,07,23,,,36,24,,,45,25,,,36*7F
+$GPGLL,,,,,140450.00,V,N*4E
+$GPRMC,140451.00,V,,,,,,,241222,,,N*7D
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140451.00,,,,,0,00,99.99,,,,,,*63
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,08,09,,,28,10,,,39,12,,,43,15,,,35*7C
+$GPGSV,2,2,08,19,,,41,23,,,35,24,,,46,25,,,35*7E
+$GPGLL,,,,,140451.00,V,N*4F
+$GPRMC,140452.00,V,,,,,,,241222,,,N*7E
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140452.00,,,,,0,00,99.99,,,,,,*60
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,10,,,40,12,,,42,15,,,38,19,,,42*7C
+$GPGSV,2,2,07,23,,,35,24,,,45,25,,,38*72
+$GPGLL,,,,,140452.00,V,N*4C
+$GPRMC,140453.00,V,,,,,,,241222,,,N*7F
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140453.00,,,,,0,00,99.99,,,,,,*61
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,10,,,41,12,,,42,15,,,36,19,,,40*71
+$GPGSV,2,2,07,23,,,37,24,,,45,25,,,33*7B
+$GPGLL,,,,,140453.00,V,N*4D
+$GPRMC,140454.00,V,,,,,,,241222,,,N*78
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140454.00,,,,,0,00,99.99,,,,,,*66
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,10,,,38,12,,,43,15,,,36,19,,,38*71
+$GPGSV,2,2,07,23,,,35,24,,,46,25,,,36*7F
+$GPGLL,,,,,140454.00,V,N*4A
+$GPRMC,140455.00,V,,,,,,,241222,,,N*79
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140455.00,,,,,0,00,99.99,,,,,,*67
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,10,,,45,12,,,41,15,,,35,19,,,42*77
+$GPGSV,2,2,07,23,,,40,24,,,46,25,,,38*73
+$GPGLL,,,,,140455.00,V,N*4B
+$GPRMC,140456.00,V,,,,,,,241222,,,N*7A
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140456.00,,,,,0,00,99.99,,,,,,*64
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,08,10,,,43,12,,,45,15,,,38,19,,,43*76
+$GPGSV,2,2,08,23,,,40,24,,,44,25,,,37,32,,,39*7A
+$GPGLL,,,,,140456.00,V,N*48
+$GPRMC,140457.00,V,,,,,,,241222,,,N*7B
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140457.00,,,,,0,03,5.31,,,,,,*51
+$GPGSA,A,1,25,12,15,,,,,,,,,,5.41,5.31,1.00*06
+$GPGSV,2,1,08,10,,,43,12,59,219,45,15,32,166,38,19,,,38*7C
+$GPGSV,2,2,08,23,,,39,24,,,44,25,28,230,36,32,,,36*41
+$GPGLL,,,,,140457.00,V,N*49
+$GPRMC,140458.00,V,,,,,,,241222,,,N*74
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140458.00,,,,,0,03,5.31,,,,,,*5E
+$GPGSA,A,1,25,12,15,,,,,,,,,,5.41,5.31,1.00*06
+$GPGSV,2,1,08,10,,,44,12,59,219,45,15,32,166,37,19,,,42*79
+$GPGSV,2,2,08,23,,,39,24,,,44,25,28,230,35,32,,,38*4C
+$GPGLL,,,,,140458.00,V,N*46
+$GPRMC,140459.00,A,4716.52033,N,00217.68592,W,24.901,21.55,241222,,,A*7E
+Latitude= 47.275337 Longitude= -2.294765
+Raw latitude = +47
+275338833
+Raw longitude = -2
+294765333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14045900
+Hour = 14
+Minute = 4
+Second = 59
+Centisecond = 0
+Raw speed in 100ths/knot = 2490
+Speed in knots/h = 24.90
+Speed in miles/h = 28.65
+Speed in m/s = 12.81
+Speed in km/h = 46.11
+Raw course in degrees = 2155
+Course in degrees = 21.55
+Raw altitude in centimeters = 0
+Altitude in meters = 0.00
+Altitude in miles = 0.00
+Altitude in kilometers = 0.00
+Altitude in feet = 0.00
+Number os satellites in use = 3
+HDOP = 531
+
+$GPVTG,21.55,T,,M,24.901,N,46.116,K,A*04
+$GPGGA,140459.00,471M,,*7F
+$GPGSA,A,2,25,12,15,,,,,,,,,,5.40,5.31,1.00*04
+$GPGSV,2,1,08,10,,,43,12,59,219,45,15,32,166,38,19,,,42*71
+$GPGSV,2,2,08,23,,,38,24,,,44,25,28,230,35,32,,,39*4C
+$GPGLL,4716.51822,N,00217.68708,W,140501.00,A,A*77
+$GPRMC,140502.00,A,4716.51629,N,00217.68825,W,1.569,,241222,,,A*66
+Latitude= 47.275272 Longitude= -2.294804
+Raw latitude = +47
+275271500
+Raw longitude = -2
+294804167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14050200
+Hour = 14
+Minute = 5
+Second = 2
+Centisecond = 0
+Raw speed in 100ths/knot = 156
+Speed in knots/h = 1.56
+Speed in miles/h = 1.80
+Speed in m/s = 0.80
+Speed in km/h = 2.89
+Raw course in degrees = 2155
+Course in degrees = 21.55
+Raw altitude in centimeters = 0
+Altitude in meters = 0.00
+Altitude in miles = 0.00
+Altitude in kilometers = 0.00
+Altitude in feet = 0.00
+Number os satellites in use = 3
+HDOP = 531
+
+$GPVTG,,T,,M,1.569,N,2.905,K,A*26
+$GPGGA,140502.00,4716.51629
+$GPVTG,22.51,T,,M,1.601,N,2.966,K,A*04
+$GPGGA,140504.00,4716.53486,N,00217.68048,W,1,06,2.24,29.0,M,48.7,M,,*76
+Latitude= 47.275581 Longitude= -2.294675
+Raw latitude = +47
+275581000
+Raw longitude = -2
+294674667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14050400
+Hour = 14
+Minute = 5
+Second = 4
+Centisecond = 0
+Raw speed in 100ths/knot = 156
+Speed in knots/h = 1.56
+Speed in miles/h = 1.80
+Speed in m/s = 0.80
+Speed in km/h = 2.89
+Raw course in degrees = 2155
+Course in degrees = 21.55
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 6
+HDOP = 224
+
+$GPGSA,A,3,25,24,19,10,12,15,,,,,,,3.75,2.24,3.00*0B
+$GPGSV,3W,140506.00,A,A*71
+$GPRMC,140507.00,A,4716.53397,N,00217.68126,W,0.021,,241222,,,A*63
+Latitude= 47.275566 Longitude= -2.294688
+Raw latitude = +47
+275566167
+Raw longitude = -2
+294687667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14050700
+Hour = 14
+Minute = 5
+Second = 7
+Centisecond = 0
+Raw speed in 100ths/knot = 2
+Speed in knots/h = 0.02
+Speed in miles/h = 0.02
+Speed in m/s = 0.01
+Speed in km/h = 0.04
+Raw course in degrees = 2155
+Course in degrees = 21.55
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 6
+HDOP = 224
+
+$GPVTG,,T,,M,0.021,N,0.038,K,A*2B
+$GPGGA,140507.00,4716.53397,,*77
+$GPGSA,A,3,25,24,19,10,12,15,,,,,,,3.75,2.24,3.00*0B
+$GPGSV,3,1,09,10,25,281,43,12,59,219,45,13,,,28,15,32,166,37*44
+$GPGSV,3,2,09,19,36,076,43,23,,,20,24,82,052,42,25,28,230,27*4D
+$GPGSV,3,3,09,32,,,29*7A
+$GPGLL,4716.53364,N,00217.68125,W,140509.00,A,A*7D
+$GPRMC,140510.00,A,4716.53352,N,00217.68122,W,0.115,,241222,,,A*6E
+Latitude= 47.275558 Longitude= -2.294687
+Raw latitude = +47
+275558667
+Raw longitude = -2
+294687000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14051000
+Hour = 14
+Minute = 5
+Second = 10
+Centisecond = 0
+Raw speed in 100ths/knot = 11
+Speed in knots/h = 0.11
+Speed in miles/h = 0.13
+Speed in m/s = 0.06
+Speed in km/h = 0.20
+Raw course in degrees = 2155
+Course in degrees = 21.55
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 6
+HDOP = 224
+
+$GPVTG,,T,,M,0.115,N,0.213,K,A*26
+$GPGGA,140510.00,4716.5335278
+$GPGSA,A,3,25,24,19,10,12,15,,,,,,,3.75,2.24,3.00*0B
+$GPGSV,3,1,09,10,25,281,43,12,59,219,45,13,,,29,15,32,166,37*45
+$GPGSV,3,2,09,19,36,076,43,23,,,27,24,82,052,42,25,28,230,29*44
+$GPGSV,3,3,09,32,,,28*7B
+$GPGLL,4716.53337,N,00217.68104,W,140512.00,A,A*72
+$GPRMC,140513.00,A,4716.53338,N,00217.68084,W,0.023,,241222,,,A*68
+Latitude= 47.275554 Longitude= -2.294681
+Raw latitude = +47
+275556333
+Raw longitude = -2
+294680667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14051300
+Hour = 14
+Minute = 5
+Second = 13
+Centisecond = 0
+Raw speed in 100ths/knot = 2
+Speed in knots/h = 0.02
+Speed in miles/h = 0.02
+Speed in m/s = 0.01
+Speed in km/h = 0.04
+Raw course in degrees = 2155
+Course in degrees = 21.55
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 6
+HDOP = 224
+
+$GPVTG,,T,,M,0.023,N,0.043,K,A*25
+$GPGGA,140513.00,4716.53338,,*70
+$GPGSA,A,3,25,24,19,10,12,15,,,,,,,3.74,2.24,3.00*0A
+$GPGSV,3,1,09,10,25,281,43,12,59,219,45,13,,,29,15,32,166,37*45
+$GPGSV,3,2,09,19,36,076,43,23,,,29,24,82,052,42,25,28,230,29*4A
+$GPGSV,3,3,09,32,,,28*7B
+$GPGLL,4716.53336,N,00217.68069,W,140515.00,A,A*7E
+$GPRMC,140516.00,A,4716.53336,N,00217.68057,W,0.035,,241222,,,A*6A
+Latitude= 47.275554 Longitude= -2.294676
+Raw latitude = +47
+275556000
+Raw longitude = -2
+294676167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14051600
+Hour = 14
+Minute = 5
+Second = 16
+Centisecond = 0
+Raw speed in 100ths/knot = 3
+Speed in knots/h = 0.03
+Speed in miles/h = 0.03
+Speed in m/s = 0.02
+Speed in km/h = 0.06
+Raw course in degrees = 2155
+Course in degrees = 21.55
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 6
+HDOP = 224
+
+$GPVTG,,T,,M,0.035,N,0.065,K,A*26
+$GPGGA,140516.00,4716.53336GPGSA,A,3,25,24,19,10,12,15,,,,,,,3.74,2.24,3.00*0A
+$GPGSV,3,1,09,10,25,281,43,12,59,219,45,13,,,29,15,32,166,37*45
+$GPGSV,3,2,09,19,36,076,43,23,,,30,24,82,052,43,25,28,230,29*43
+$GPGSV,3,3,09,32,,,27*74
+$GPGLL,4716.53328,N,00217.68043,W,140518.00,A,A*74
+$GPRMC,140519.00,A,4716.53326,N,00217.68034,W,0.094,,241222,,,A*6A
+Latitude= 47.275554 Longitude= -2.294672
+Raw latitude = +47
+275554333
+Raw longitude = -2
+294672333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14051900
+Hour = 14
+Minute = 5
+Second = 19
+Centisecond = 0
+Raw speed in 100ths/knot = 9
+Speed in knots/h = 0.09
+Speed in miles/h = 0.10
+Speed in m/s = 0.05
+Speed in km/h = 0.17
+Raw course in degrees = 2155
+Course in degrees = 21.55
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 6
+HDOP = 224
+
+$GPVTG,,T,,M,0.094,N,0.174,K,A*2C
+$GPGGA,140519.00,4716.533267F
+$GPGSA,A,3,25,24,19,10,12,15,,,,,,,3.74,2.24,3.00*0A
+$GPGSV,2,1,08,10,25,281,23,12,59,219,40,15,32,166,37,19,36,076,38*78
+$GPGSV,2,2,08,23,,,20,24,82,053,44,25,28,230,30,32,,,38*7D
+$GPGLL,4716.53320,N,00217.68032,W,140521.00,A,A*70
+$GPRMC,140522.00,A,4716.53336,N,00217.68040,W,0.911,,241222,,,A*64
+Latitude= 47.275554 Longitude= -2.294673
+Raw latitude = +47
+275556000
+Raw longitude = -2
+294673333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14052200
+Hour = 14
+Minute = 5
+Second = 22
+Centisecond = 0
+Raw speed in 100ths/knot = 91
+Speed in knots/h = 0.91
+Speed in miles/h = 1.05
+Speed in m/s = 0.47
+Speed in km/h = 1.69
+Raw course in degrees = 2155
+Course in degrees = 21.55
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 6
+HDOP = 224
+
+$GPVTG,,T,,M,0.911,N,1.687,K,A*22
+$GPGGA,140522.00,4716.533366
+$GPGSA,A,3,25,24,19,10,12,15,,,,,,,2.46,1.30,2.09*04
+$GPGSV,2,1,08,10,25,281,36,12,59,219,38,15,32,166,39,19,36,076,35*70
+$GPGSV,2,2,08,23,,,38,24,82,053,44,25,28,230,34,32,,,30*78
+$GPGLL,4716.53395,N,00217.68037,W,140524.00,A,A*7E
+$GPRMC,140525.00,A,4716.53423,N,00217.68046,W,1.191,14.22,241222,,,A*4C
+Latitude= 47.275569 Longitude= -2.294674
+Raw latitude = +47
+275570500
+Raw longitude = -2
+294674333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14052500
+Hour = 14
+Minute = 5
+Second = 25
+Centisecond = 0
+Raw speed in 100ths/knot = 119
+Speed in knots/h = 1.19
+Speed in miles/h = 1.37
+Speed in m/s = 0.61
+Speed in km/h = 2.20
+Raw course in degrees = 1422
+Course in degrees = 14.22
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 6
+HDOP = 224
+
+$GPVTG,14.22,T,,M,1.191,N,2.206,K,A*06
+$GPGGA,140525.00,4716.,*71
+$GPGSA,A,3,25,24,19,10,12,15,,,,,,,2.46,1.30,2.09*04
+$GPGSV,2,1,08,10,25,281,38,12,59,219,39,15,32,166,36,19,36,076,30*75
+$GPGSV,2,2,08,23,,,36,24,82,053,44,25,28,230,37,32,,,23*77
+$GPGLL,4716.53480,N,00217.68042,W,140527.00,A,A*7C
+⸮$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-G60xx  00040007 FF7FFFFFp*53
+$GPTXT,01,01,02,ROM CORE 7.03 (45969) Mar 17 2011 16:18:34*59
+$GPTXT,01,01,02,ANTSUPERV=AC SD PDoS SR*20
+$GPTXT,01,01,02,ANTSTATUS=DONTKNOW*33
+$GPRMC,140527.74,V,,,,,,,241222,,,N*7E
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140527.74,,,,,0,00,99.99,,,,,,*60
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,10,25,281,,12,59,219,,15,31,166,,19,36,076,*7F
+$GPGSV,2,2,06,24,81,053,,25,28,230,*7A
+$GPGLL,,,,,140527.74,V,N*4C
+$GPRMC,140528.00,V,,,,,,,241222,,,N*72
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140528.00,,,,,0,00,99.99,,,,,,*6C
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,10,25,281,37,12,59,219,42,15,31,166,33,19,36,076,25*7A
+$GPGSV,2,2,06,24,81,053,45,25,28,230,38*70
+$GPGLL,,,,,140528.00,V,N*40
+$GPRMC,140528.50,A,4716.53609,N,00217.67869,W,1.496,,241222,,,A*6D
+Latitude= 47.275600 Longitude= -2.294645
+Raw latitude = +47
+275601500
+Raw longitude = -2
+294644833
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14052850
+Hour = 14
+Minute = 5
+Second = 28
+Centisecond = 50
+Raw speed in 100ths/knot = 149
+Speed in knots/h = 1.49
+Speed in miles/h = 1.71
+Speed in m/s = 0.77
+Speed in km/h = 2.76
+Raw course in degrees = 1422
+Course in degrees = 14.22
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,1.496,N,2.770,K,A*2B
+$GPGGA,140528.50,4716.53609$GPRMC,140531.00,A,4716.53711,N,00217.67820,W,1.095,,241222,,,A*62
+Latitude= 47.275619 Longitude= -2.294637
+Raw latitude = +47
+275618500
+Raw longitude = -2
+294636667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14053100
+Hour = 14
+Minute = 5
+Second = 31
+Centisecond = 0
+Raw speed in 100ths/knot = 109
+Speed in knots/h = 1.09
+Speed in miles/h = 1.25
+Speed in m/s = 0.56
+Speed in km/h = 2.02
+Raw course in degrees = 1422
+Course in degrees = 14.22
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,1.095,N,2.028,K,A*26
+$GPGGA,140531.00,4716.53711,48.7,M,,*77
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,3.74,2.24,2.99*0B
+$GPGSV,2,1,07,10,25,281,29,12,59,219,45,15,31,166,38,19,36,076,20*7D
+$GPGSV,2,2,07,23,,,41,24,81,053,30,25,28,230,31*7E
+$GPGLL,4716.53920,N,00217.67762,W,140533.00,A,A*74
+$GPRMC,140534.00,A,4716.53941,N,00217.67750,W,6.671,27.42,241222,,,A*42
+Latitude= 47.275657 Longitude= -2.294625
+Raw latitude = +47
+275656833
+Raw longitude = -2
+294625000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14053400
+Hour = 14
+Minute = 5
+Second = 34
+Centisecond = 0
+Raw speed in 100ths/knot = 667
+Speed in knots/h = 6.67
+Speed in miles/h = 7.68
+Speed in m/s = 3.43
+Speed in km/h = 12.35
+Raw course in degrees = 2742
+Course in degrees = 27.42
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,27.42,T,,M,6.671,N,12.355,K,A*38
+$GPGGA,140534.00,4716M,,*7F
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,3.73,2.24,2.99*0C
+$GPGSV,2,1,07,10,25,281,21,12,59,219,49,15,31,166,47,19,36,076,21*70
+$GPGSV,2,2,07,23,,,38,24,81,053,28,25,28,230,33*7B
+$GPGLL,4716.53975,N,00217.67707,W,140536.00,A,A*72
+$GPRMC,140537.00,A,4716.53983,N,00217.67760,W,2.338,,241222,,,A*6D
+Latitude= 47.275665 Longitude= -2.294627
+Raw latitude = +47
+275663833
+Raw longitude = -2
+294626667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14053700
+Hour = 14
+Minute = 5
+Second = 37
+Centisecond = 0
+Raw speed in 100ths/knot = 233
+Speed in knots/h = 2.33
+Speed in miles/h = 2.68
+Speed in m/s = 1.20
+Speed in km/h = 4.32
+Raw course in degrees = 2742
+Course in degrees = 27.42
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,2.338,N,4.330,K,A*2D
+$GPGGA,140537.00,4716.53983*78
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.46,1.30,2.09*04
+$GPGSV,2,1,08,10,25,281,20,12,59,219,46,15,31,166,47,19,36,076,20*70
+$GPGSV,2,2,08,20,,,28,23,,,30,24,81,053,29,25,28,230,39*7F
+$GPGLL,4716.53997,N,00217.67871,W,140539.00,A,A*7F
+$GPRMC,140540.00,A,4716.53989,N,00217.67945,W,1.861,,241222,,,A*6A
+Latitude= 47.275665 Longitude= -2.294657
+Raw latitude = +47
+275664833
+Raw longitude = -2
+294657500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14054000
+Hour = 14
+Minute = 5
+Second = 40
+Centisecond = 0
+Raw speed in 100ths/knot = 186
+Speed in knots/h = 1.86
+Speed in miles/h = 2.14
+Speed in m/s = 0.96
+Speed in km/h = 3.44
+Raw course in degrees = 2742
+Course in degrees = 27.42
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,1.861,N,3.446,K,A*28
+$GPGGA,140540.00,4716.53989$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.46,1.30,2.09*04
+$GPGSV,2,1,07,10,25,281,20,12,59,219,44,15,31,166,43,19,36,076,19*73
+$GPGSV,2,2,07,23,,,22,24,81,053,25,25,28,230,29*76
+$GPGLL,4716.53895,N,00217.68085,W,140542.00,A,A*7C
+$GPRMC,140543.00,A,4716.53904,N,00217.68075,W,1.643,,241222,,,A*67
+Latitude= 47.275650 Longitude= -2.294679
+Raw latitude = +47
+275650667
+Raw longitude = -2
+294679167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14054300
+Hour = 14
+Minute = 5
+Second = 43
+Centisecond = 0
+Raw speed in 100ths/knot = 164
+Speed in knots/h = 1.64
+Speed in miles/h = 1.89
+Speed in m/s = 0.84
+Speed in km/h = 3.04
+Raw course in degrees = 2742
+Course in degrees = 27.42
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,1.643,N,3.043,K,A*27
+$GPGGA,140543.00,4716.53904GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.55,1.38,2.15*03
+$GPGSV,2,1,08,10,25,281,16,12,59,219,27,13,,,30,15,31,166,40*4A
+$GPGSV,2,2,08,19,36,075,24,23,,,21,24,81,053,28,25,28,230,22*45
+$GPGLL,4716.53822,N,00217.68087,W,140545.00,A,A*75
+$GPRMC,140546.00,A,4716.53718,N,00217.68141,W,1.105,,241222,,,A*62
+Latitude= 47.275619 Longitude= -2.294690
+Raw latitude = +47
+275619667
+Raw longitude = -2
+294690167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14054600
+Hour = 14
+Minute = 5
+Second = 46
+Centisecond = 0
+Raw speed in 100ths/knot = 110
+Speed in knots/h = 1.10
+Speed in miles/h = 1.27
+Speed in m/s = 0.57
+Speed in km/h = 2.04
+Raw course in degrees = 2742
+Course in degrees = 27.42
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,1.105,N,2.046,K,A*26
+$GPGGA,140546.00,4716.53718
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.55,1.38,2.15*03
+$GPGSV,2,1,08,10,25,281,19,12,59,219,30,13,,,26,15,31,166,42*46
+$GPGSV,2,2,08,19,36,075,33,23,,,20,24,81,053,30,25,28,230,29*40
+$GPGLL,4716.53553,N,00217.68282,W,140548.00,A,A*74
+$GPRMC,140549.00,A,4716.53510,N,00217.68289,W,0.835,,241222,,,A*6B
+Latitude= 47.275585 Longitude= -2.294715
+Raw latitude = +47
+275585000
+Raw longitude = -2
+294714833
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14054900
+Hour = 14
+Minute = 5
+Second = 49
+Centisecond = 0
+Raw speed in 100ths/knot = 83
+Speed in knots/h = 0.83
+Speed in miles/h = 0.96
+Speed in m/s = 0.43
+Speed in km/h = 1.54
+Raw course in degrees = 2742
+Course in degrees = 27.42
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,0.835,N,1.546,K,A*2B
+$GPGGA,140549.00,4716.535103
+$GPGSA,A,3,24,12,19,15,10,,,,,,,,2.55,1.38,2.15*04
+$GPGSV,2,1,08,10,25,281,21,12,59,219,31,13,,,25,15,31,166,38*42
+$GPGSV,2,2,08,19,36,075,38,23,,,21,24,81,054,33,25,28,230,*45
+$GPGLL,4716.53398,N,00217.68298,W,140551.00,A,A*76
+$GPRMC,140552.00,A,4716.53357,N,00217.68360,W,1.245,,241222,,,A*6E
+Latitude= 47.275558 Longitude= -2.294727
+Raw latitude = +47
+275559500
+Raw longitude = -2
+294726667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14055200
+Hour = 14
+Minute = 5
+Second = 52
+Centisecond = 0
+Raw speed in 100ths/knot = 124
+Speed in knots/h = 1.24
+Speed in miles/h = 1.43
+Speed in m/s = 0.64
+Speed in km/h = 2.30
+Raw course in degrees = 2742
+Course in degrees = 27.42
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,1.245,N,2.306,K,A*26
+$GPGGA,140552.00,4716.5335775
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.46,1.30,2.09*04
+$GPGSV,2,1,08,10,25,281,34,12,59,219,43,13,,,23,15,31,166,38*45
+$GPGSV,2,2,08,19,36,075,40,23,,,34,24,81,054,41,25,28,230,39*41
+$GPGLL,4716.53258,N,00217.68403,W,140554.00,A,A*7A
+$GPRMC,140555.00,A,4716.53236,N,00217.68480,W,0.789,,241222,,,A*62
+Latitude= 47.275539 Longitude= -2.294747
+Raw latitude = +47
+275539333
+Raw longitude = -2
+294746667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14055500
+Hour = 14
+Minute = 5
+Second = 55
+Centisecond = 0
+Raw speed in 100ths/knot = 78
+Speed in knots/h = 0.78
+Speed in miles/h = 0.90
+Speed in m/s = 0.40
+Speed in km/h = 1.44
+Raw course in degrees = 2742
+Course in degrees = 27.42
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,0.789,N,1.461,K,A*27
+$GPGGA,140555.00,4716.53236,,*73
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,2,1,08,10,25,281,37,12,59,219,46,13,,,23,15,31,166,40*4C
+$GPGSV,2,2,08,19,36,075,33,23,,,42,24,81,054,33,25,28,230,36*4E
+$GPGLL,4716.53259,N,00217.68682,W,140557.00,A,A*73
+$GPRMC,140558.00,A,4716.53296,N,00217.68722,W,1.429,,241222,,,A*66
+Latitude= 47.275550 Longitude= -2.294787
+Raw latitude = +47
+275549333
+Raw longitude = -2
+294787000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14055800
+Hour = 14
+Minute = 5
+Second = 58
+Centisecond = 0
+Raw speed in 100ths/knot = 142
+Speed in knots/h = 1.42
+Speed in miles/h = 1.63
+Speed in m/s = 0.73
+Speed in km/h = 2.63
+Raw course in degrees = 2742
+Course in degrees = 27.42
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,1.429,N,2.646,K,A*2B
+$GPGGA,140558.00,4716.53296,48.7,M,,*7F
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,2,1,08,10,25,281,31,12,59,219,43,13,,,20,15,31,166,41*4D
+$GPGSV,2,2,08,19,36,075,19,23,,,35,24,81,054,41,25,28,230,38*4D
+$GPGLL,4716.53326,N,00217.68892,W,140600.00,A,A*74
+$GPRMC,140601.00,A,4716.53374,N,00217.68992,W,1.471,300.77,241222,,,A*71
+Latitude= 47.275562 Longitude= -2.294832
+Raw latitude = +47
+275562333
+Raw longitude = -2
+294832000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14060100
+Hour = 14
+Minute = 6
+Second = 1
+Centisecond = 0
+Raw speed in 100ths/knot = 147
+Speed in knots/h = 1.47
+Speed in miles/h = 1.69
+Speed in m/s = 0.76
+Speed in km/h = 2.72
+Raw course in degrees = 30077
+Course in degrees = 300.77
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,300.77,T,,M,1.471,N,2.724,K,A*3E
+$GPGGA,140601.00,4716A,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,2,1,08,10,25,281,31,12,59,219,46,13,,,20,15,31,166,30*4E
+$GPGSV,2,2,08,19,36,075,26,23,,,40,24,81,054,44,25,28,230,35*4B
+$GPGLL,4716.53414,N,00217.69076,W,140603.00,A,A*72
+$GPRMC,140604.00,A,4716.53455,N,00217.69115,W,0.871,,241222,,,A*66
+Latitude= 47.275577 Longitude= -2.294852
+Raw latitude = +47
+275575833
+Raw longitude = -2
+294852500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14060400
+Hour = 14
+Minute = 6
+Second = 4
+Centisecond = 0
+Raw speed in 100ths/knot = 87
+Speed in knots/h = 0.87
+Speed in miles/h = 1.00
+Speed in m/s = 0.45
+Speed in km/h = 1.61
+Raw course in degrees = 30077
+Course in degrees = 300.77
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,0.871,N,1.613,K,A*28
+$GPGGA,140604.00,4716.53455
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,2,1,08,10,25,281,36,12,59,219,45,13,,,18,15,31,166,31*40
+$GPGSV,2,2,08,19,36,075,25,23,,,41,24,81,054,44,25,28,230,41*4A
+$GPGLL,4716.53490,N,00217.69171,W,140606.00,A,A*7D
+$GPRMC,140607.00,A,4716.53522,N,00217.69211,W,1.673,314.39,241222,,,A*7C
+Latitude= 47.275585 Longitude= -2.294868
+Raw latitude = +47
+275587000
+Raw longitude = -2
+294868500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14060700
+Hour = 14
+Minute = 6
+Second = 7
+Centisecond = 0
+Raw speed in 100ths/knot = 167
+Speed in knots/h = 1.67
+Speed in miles/h = 1.92
+Speed in m/s = 0.86
+Speed in km/h = 3.09
+Raw course in degrees = 31439
+Course in degrees = 314.39
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,314.39,T,,M,1.673,N,3.098,K,A*30
+$GPGGA,140607.00,4716$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-G60xx  00040007 FF7FFFFFp*53
+$GPTXT,01,01,02,ROM CORE 7.03 (45969) Mar 17 2011 16:18:34*59
+$GPTXT,01,01,02,ANTSUPERV=AC SD PDoS SR*20
+$GPTXT,01,01,02,ANTSTATUS=DONTKNOW*33
+$GPRMC,140609.61,V,,,,,,,241222,,,N*75
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140609.61,,,,,0,00,99.99,,,,,,*6B
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,10,25,281,,12,59,219,,15,31,166,,19,36,075,*7C
+$GPGSV,2,2,06,24,81,055,,25,28,230,*7C
+$GPGLL,,,,,140609.61,V,N*47
+$GPRMC,140610.00,V,,,,,,,241222,,,N*7A
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140610.00,,,,,0,00,99.99,,,,,,*64
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,10,25,281,,12,59,219,45,15,31,166,43,19,36,075,*7B
+$GPGSV,2,2,07,24,81,055,,25,28,230,,39,30,144,30*46
+$GPGLL,,,,,140610.00,V,N*48
+$GPTXT,01,01,02,ANTSTATUS=INIT*25
+$GPRMC,140610.50,A,4716.53554,N,00217.69810,W,2.343,,241222,,,A*62
+Latitude= 47.275592 Longitude= -2.294968
+Raw latitude = +47
+275592333
+Raw longitude = -2
+294968333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14061050
+Hour = 14
+Minute = 6
+Second = 10
+Centisecond = 50
+Raw speed in 100ths/knot = 234
+Speed in knots/h = 2.34
+Speed in miles/h = 2.69
+Speed in m/s = 1.20
+Speed in km/h = 4.33
+Raw course in degrees = 31439
+Course in degrees = 314.39
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,2.343,N,4.339,K,A*28
+$GPGGA,140610.50,4716.53554$GPRMC,140613.00,A,4716.53586,N,00217.69460,W,0.979,140.92,241222,,,A*71
+Latitude= 47.275596 Longitude= -2.294910
+Raw latitude = +47
+275597667
+Raw longitude = -2
+294910000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14061300
+Hour = 14
+Minute = 6
+Second = 13
+Centisecond = 0
+Raw speed in 100ths/knot = 97
+Speed in knots/h = 0.97
+Speed in miles/h = 1.12
+Speed in m/s = 0.50
+Speed in km/h = 1.80
+Raw course in degrees = 14092
+Course in degrees = 140.92
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,140.92,T,,M,0.979,N,1.812,K,A*3E
+$GPGGA,140613.00,4716,,*7E
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,2,1,06,10,25,281,26,12,59,219,41,15,31,166,37,19,36,075,42*7F
+$GPGSV,2,2,06,24,81,055,43,25,28,230,30*78
+$GPGLL,4716.53436,N,00217.69507,W,140615.00,A,A*76
+⸮$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-G60xx  00040007 FF7FFFFFp*53
+$GPTXT,01,01,02,ROM CORE 7.03 (45969) Mar 17 2011 16:18:34*59
+$GPTXT,01,01,02,ANTSUPERV=AC SD PDoS SR*20
+$GPTXT,01,01,02,ANTSTATUS=DONTKNOW*33
+$GPRMC,140620.20,V,,,,,,,241222,,,N*7B
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140620.20,,,,,0,00,99.99,,,,,,*65
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,10,25,281,,12,59,219,,15,31,166,,19,36,075,*7C
+$GPGSV,2,2,06,24,81,055,,25,28,230,*7C
+$GPGLL,,,,,140620.20,V,N*49
+$GPTXT,01,01,02,ANTSTATUS=INIT*25
+$GPRMC,140621.00,V,,,,,,,241222,,,N*78
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140621.00,,,,,0,00,99.99,,,,,,*66
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,10,25,281,,12,59,219,,15,31,166,,19,36,075,*7C
+$GPGSV,2,2,06,24,81,055,,25,28,230,*7C
+$GPGLL,,,,,140621.00,V⸮$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-G60xx  00040007 FF7FFFFFp*53
+$GPTXT,01,01,02,ROM CORE 7.03 (45969) Mar 17 2011 16:18:34*59
+$GPTXT,01,01,02,ANTSUPERV=AC SD PDoS SR*20
+$GPTXT,01,01,02,ANTSTATUS=DONTKNOW*33
+$GPRMC,140622.72,V,,,,,,,241222,,,N*7E
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140622.72,,,,,0,00,99.99,,,,,,*60
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,10,25,281,,12,59,219,,15,31,166,,19,36,075,*7C
+$GPGSV,2,2,06,24,81,056,,25,28,230,*7F
+$GPGLL,,,,,140622.72,V,N*4C
+$GPRMC,140623.00,V,,,,,,,241222,,,N*7A
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140623.00,,,,,0,00,99.99,,,,,,*64
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,06,10,25,281,,12,59,219,,15,31,166,32,19,36,075,34*7A
+$GPGSV,2,2,06,24,81,056,37,25,28,230,29*70
+$GPGLL,,,,,140623.00,V,N*48
+$GPRMC,140623.50,V,,,,,,,241222,,,N*7F
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140623.50,,,,,0,04,2.12,,,,,,*54
+$GPGSA,A,1,24,19,15,25,,,,,,,,,3.82,2.12,3.18*0F
+$GPGSV,2,1,06,10,25,281,,12,59,219,,15,31,166,36,19,36,075,37*7D
+$GPGSV,2,2,06,24,81,056,39,25,28,230,29*7E
+$GPGLL,,,,,140623.50,V,N*4D
+$GPTXT,01,01,02,ANTSTATUS=INIT*25
+$GPRMC,140624.00,A,4716.53467,N,00217.69708,W,1.913,,241222,,,A*6B
+Latitude= 47.275577 Longitude= -2.294951
+Raw latitude = +47
+275577833
+Raw longitude = -2
+294951333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14062400
+Hour = 14
+Minute = 6
+Second = 24
+Centisecond = 0
+Raw speed in 100ths/knot = 191
+Speed in knots/h = 1.91
+Speed in miles/h = 2.20
+Speed in m/s = 0.98
+Speed in km/h = 3.54
+Raw course in degrees = 14092
+Course in degrees = 140.92
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.913,N,3.543,K,A*28
+$GPGGA,140624.00,4716.53467,M,48.7,M,,*77
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,2,1,07,10,25,281,26,12,59,219,44,15,31,166,38,19,36,075,43*75
+$GPGSV,2,2,07,23,,,32,24,81,056,40,25,28,230,39*70
+$GPGLL,4716.53375,N,00217.69775,W,140626.00,A,A*71
+$GPRMC,140627.00,A,4716.53332,N,00217.69653,W,1.652,149.47,241222,,,A*7B
+Latitude= 47.275554 Longitude= -2.294942
+Raw latitude = +47
+275555333
+Raw longitude = -2
+294942167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14062700
+Hour = 14
+Minute = 6
+Second = 27
+Centisecond = 0
+Raw speed in 100ths/knot = 165
+Speed in knots/h = 1.65
+Speed in miles/h = 1.90
+Speed in m/s = 0.85
+Speed in km/h = 3.06
+Raw course in degrees = 14947
+Course in degrees = 149.47
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,149.47,T,,M,1.652,N,3.060,K,A*37
+$GPGGA,140627.00,4716M,,*70
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,2,1,07,10,25,281,26,12,59,219,42,15,31,166,36,19,36,075,43*7D
+$GPGSV,2,2,07,23,,,37,24,81,056,42,25,28,230,34*7A
+$GPGLL,4716.53246,N,00217.69578,W,140629.00,A,A*70
+$GPRMC,140630.00,A,4716.53191,N,00217.69521,W,2.161,153.66,241222,,,A*7C
+Latitude= 47.275531 Longitude= -2.294920
+Raw latitude = +47
+275531833
+Raw longitude = -2
+294920167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14063000
+Hour = 14
+Minute = 6
+Second = 30
+Centisecond = 0
+Raw speed in 100ths/knot = 216
+Speed in knots/h = 2.16
+Speed in miles/h = 2.49
+Speed in m/s = 1.11
+Speed in km/h = 4.00
+Raw course in degrees = 15366
+Course in degrees = 153.66
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,153.66,T,,M,2.161,N,4.003,K,A*39
+$GPGGA,140630.00,4716,,*7D
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,2,1,07,10,25,281,29,12,59,219,41,15,31,166,36,19,36,075,37*72
+$GPGSV,2,2,07,23,,,36,24,81,056,44,25,28,230,34*7D
+$GPGLL,4716.53001,N,00217.69262,W,140632.00,A,A*77
+$GPRMC,140633.00,A,4716.52977,N,00217.69221,W,1.953,141.66,241222,,,A*70
+Latitude= 47.275497 Longitude= -2.294870
+Raw latitude = +47
+275496167
+Raw longitude = -2
+294870167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14063300
+Hour = 14
+Minute = 6
+Second = 33
+Centisecond = 0
+Raw speed in 100ths/knot = 195
+Speed in knots/h = 1.95
+Speed in miles/h = 2.24
+Speed in m/s = 1.00
+Speed in km/h = 3.61
+Raw course in degrees = 14166
+Course in degrees = 141.66
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,141.66,T,,M,1.953,N,3.617,K,A*34
+$GPGGA,140633.00,47167,M,,*78
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,3,1,09,02,,,28,10,25,281,30,12,59,219,41,15,31,166,32*42
+$GPGSV,3,2,09,17,,,36,19,36,075,39,23,,,20,24,81,056,44*78
+$GPGSV,3,3,09,25,28,230,25*4B
+$GPGLL,4716.52932,N,00217.69168,W,140635.00,A,A*71
+$GPRMC,140636.00,A,4716.52915,N,00217.69149,W,1.248,140.19,241222,,,A*74
+Latitude= 47.275485 Longitude= -2.294858
+Raw latitude = +47
+275485833
+Raw longitude = -2
+294858167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14063600
+Hour = 14
+Minute = 6
+Second = 36
+Centisecond = 0
+Raw speed in 100ths/knot = 124
+Speed in knots/h = 1.24
+Speed in miles/h = 1.43
+Speed in m/s = 0.64
+Speed in km/h = 2.30
+Raw course in degrees = 14019
+Course in degrees = 140.19
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,140.19,T,,M,1.248,N,2.312,K,A*3D
+$GPGGA,140636.00,4716*79
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,2,1,08,10,25,281,23,12,59,219,37,15,31,166,39,17,,,41*41
+$GPGSV,2,2,08,19,36,075,39,23,,,28,24,81,056,44,25,28,230,28*45
+$GPGLL,4716.52974,N,00217.69173,W,140638.00,A,A*74
+$GPRMC,140639.00,A,4716.52959,N,00217.69130,W,0.825,,241222,,,A*6E
+Latitude= 47.275493 Longitude= -2.294855
+Raw latitude = +47
+275493167
+Raw longitude = -2
+294855000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14063900
+Hour = 14
+Minute = 6
+Second = 39
+Centisecond = 0
+Raw speed in 100ths/knot = 82
+Speed in knots/h = 0.82
+Speed in miles/h = 0.94
+Speed in m/s = 0.42
+Speed in km/h = 1.52
+Raw course in degrees = 14019
+Course in degrees = 140.19
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,0.825,N,1.528,K,A*22
+$GPGGA,140639.00,4716.52959,M,48.7,M,,*70
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,2,1,08,10,25,281,24,12,59,219,37,15,31,166,39,17,,,38*48
+$GPGSV,2,2,08,19,36,075,37,23,,,33,24,81,056,44,25,28,230,24*4D
+$GPGLL,4716.52987,N,00217.69087,W,140641.00,A,A*7C
+$GPRMC,140642.00,A,4716.53004,N,00217.69051,W,1.001,,241222,,,A*6B
+Latitude= 47.275501 Longitude= -2.294842
+Raw latitude = +47
+275500667
+Raw longitude = -2
+294841833
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14064200
+Hour = 14
+Minute = 6
+Second = 42
+Centisecond = 0
+Raw speed in 100ths/knot = 100
+Speed in knots/h = 1.00
+Speed in miles/h = 1.15
+Speed in m/s = 0.51
+Speed in km/h = 1.85
+Raw course in degrees = 14019
+Course in degrees = 140.19
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.001,N,1.854,K,A*2B
+$GPGGA,140642.00,4716.53004,48.7,M,,*78
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,3,1,09,10,25,281,27,12,59,219,39,15,31,166,33,17,,,32*45
+$GPGSV,3,2,09,19,36,075,37,23,,,32,24,81,056,43,25,28,230,31*4F
+$GPGSV,3,3,09,32,,,41*74
+$GPGLL,4716.52985,N,00217.68923,W,140644.00,A,A*7D
+$GPRMC,140645.00,A,4716.52983,N,00217.68873,W,1.008,,241222,,,A*6B
+Latitude= 47.275497 Longitude= -2.294812
+Raw latitude = +47
+275497167
+Raw longitude = -2
+294812167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14064500
+Hour = 14
+Minute = 6
+Second = 45
+Centisecond = 0
+Raw speed in 100ths/knot = 100
+Speed in knots/h = 1.00
+Speed in miles/h = 1.15
+Speed in m/s = 0.51
+Speed in km/h = 1.85
+Raw course in degrees = 14019
+Course in degrees = 140.19
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.008,N,1.867,K,A*22
+$GPGGA,140645.00,4716.52983.7,M,,*73
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,3,1,09,10,25,281,26,12,59,219,40,15,31,166,36,17,,,32*4F
+$GPGSV,3,2,09,19,36,075,38,23,,,28,24,81,057,44,25,28,230,31*4D
+$GPGSV,3,3,09,32,,,40*75
+$GPGLL,4716.52960,N,00217.68723,W,140647.00,A,A*7B
+$GPRMC,140648.00,A,4716.52969,N,00217.68677,W,1.022,,241222,,,A*60
+Latitude= 47.275493 Longitude= -2.294780
+Raw latitude = +47
+275494833
+Raw longitude = -2
+294779500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14064800
+Hour = 14
+Minute = 6
+Second = 48
+Centisecond = 0
+Raw speed in 100ths/knot = 102
+Speed in knots/h = 1.02
+Speed in miles/h = 1.17
+Speed in m/s = 0.52
+Speed in km/h = 1.89
+Raw course in degrees = 14019
+Course in degrees = 140.19
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.022,N,1.892,K,A*20
+$GPGGA,140648.00,4716.52969GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,3,1,10,10,25,281,30,11,,,25,12,59,219,39,15,31,166,33*4B
+$GPGSV,3,2,10,17,,,35,19,36,075,39,23,,,29,24,81,057,44*7B
+$GPGSV,3,3,10,25,28,230,32,32,,,31*46
+$GPGLL,4716.52950,N,00217.68557,W,140650.00,A,A*7F
+$GPRMC,140651.00,A,4716.52949,N,00217.68506,W,1.201,,241222,,,A*6C
+Latitude= 47.275489 Longitude= -2.294751
+Raw latitude = +47
+275491500
+Raw longitude = -2
+294751000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14065100
+Hour = 14
+Minute = 6
+Second = 51
+Centisecond = 0
+Raw speed in 100ths/knot = 120
+Speed in knots/h = 1.20
+Speed in miles/h = 1.38
+Speed in m/s = 0.62
+Speed in km/h = 2.22
+Raw course in degrees = 14019
+Course in degrees = 140.19
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.201,N,2.224,K,A*27
+$GPGGA,140651.00,4716.52949$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,3,1,09,10,25,281,23,12,59,219,41,15,31,166,35,17,,,38*42
+$GPGSV,3,2,09,19,36,075,39,23,,,21,24,81,057,43,25,28,230,24*46
+$GPGSV,3,3,09,32,,,39*7B
+$GPGLL,4716.52958,N,00217.68408,W,140653.00,A,A*7F
+$GPRMC,140654.00,A,4716.52956,N,00217.68354,W,1.366,95.26,241222,,,A*40
+Latitude= 47.275493 Longitude= -2.294726
+Raw latitude = +47
+275492667
+Raw longitude = -2
+294725667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14065400
+Hour = 14
+Minute = 6
+Second = 54
+Centisecond = 0
+Raw speed in 100ths/knot = 136
+Speed in knots/h = 1.36
+Speed in miles/h = 1.57
+Speed in m/s = 0.70
+Speed in km/h = 2.52
+Raw course in degrees = 9526
+Course in degrees = 95.26
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,95.26,T,,M,1.366,N,2.530,K,A*03
+$GPGGA,140654.00,4716.PGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,3,1,09,10,25,281,28,12,59,219,37,15,31,166,39,17,,,36*4A
+$GPGSV,3,2,09,19,36,075,40,23,,,22,24,81,057,44,25,28,230,28*40
+$GPGSV,3,3,09,32,,,34*76
+$GPGLL,4716.52969,N,00217.68272,W,140656.00,A,A*73
+$GPRMC,140657.00,A,4716.52979,N,00217.68221,W,1.267,84.50,241222,,,A*4C
+Latitude= 47.275497 Longitude= -2.294703
+Raw latitude = +47
+275496500
+Raw longitude = -2
+294703500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14065700
+Hour = 14
+Minute = 6
+Second = 57
+Centisecond = 0
+Raw speed in 100ths/knot = 126
+Speed in knots/h = 1.26
+Speed in miles/h = 1.45
+Speed in m/s = 0.65
+Speed in km/h = 2.33
+Raw course in degrees = 8450
+Course in degrees = 84.50
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,84.50,T,,M,1.267,N,2.347,K,A*04
+$GPGGA,140657.00,4716.,,*75
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.08*06
+$GPGSV,3,1,09,10,25,281,33,12,59,219,39,15,31,166,39,17,,,32*4A
+$GPGSV,3,2,09,19,36,075,41,23,,,26,24,81,057,44,25,28,230,28*45
+$GPGSV,3,3,09,32,,,38*7A
+$GPGLL,4716.52981,N,00217.68104,W,140659.00,A,A*78
+$GPRMC,140700.00,A,4716.52984,N,00217.68054,W,1.237,84.56,241222,,,A*4E
+Latitude= 47.275497 Longitude= -2.294676
+Raw latitude = +47
+275497333
+Raw longitude = -2
+294675667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14070000
+Hour = 14
+Minute = 7
+Second = 0
+Centisecond = 0
+Raw speed in 100ths/knot = 123
+Speed in knots/h = 1.23
+Speed in miles/h = 1.42
+Speed in m/s = 0.63
+Speed in km/h = 2.28
+Raw course in degrees = 8456
+Course in degrees = 84.56
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,84.56,T,,M,1.237,N,2.291,K,A*0D
+$GPGGA,140700.00,4716.,M,,*72
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.07*09
+$GPGSV,3,1,09,10,25,281,24,12,59,219,39,15,31,166,36,17,,,26*46
+$GPGSV,3,2,09,19,36,075,40,23,,,24,24,81,057,45,25,28,230,24*4B
+$GPGSV,3,3,09,32,,,42*77
+$GPGLL,4716.52993,N,00217.67944,W,140702.00,A,A*77
+$GPRMC,140703.00,A,4716.53001,N,00217.67889,W,1.280,,241222,,,A*62
+Latitude= 47.275501 Longitude= -2.294648
+Raw latitude = +47
+275500167
+Raw longitude = -2
+294648167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14070300
+Hour = 14
+Minute = 7
+Second = 3
+Centisecond = 0
+Raw speed in 100ths/knot = 128
+Speed in knots/h = 1.28
+Speed in miles/h = 1.47
+Speed in m/s = 0.66
+Speed in km/h = 2.37
+Raw course in degrees = 8456
+Course in degrees = 84.56
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.280,N,2.370,K,A*2E
+$GPGGA,140703.00,4716.530014
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.07*09
+$GPGSV,3,1,09,10,25,281,22,12,59,219,42,15,31,166,37,17,,,31*4B
+$GPGSV,3,2,09,19,36,075,39,23,,,24,24,81,057,45,25,28,230,23*42
+$GPGSV,3,3,09,32,,,38*7A
+$GPGLL,4716.53008,N,00217.67750,W,140705.00,A,A*71
+$GPRMC,140706.00,A,4716.53013,N,00217.67687,W,1.403,82.16,241222,,,A*4A
+Latitude= 47.275501 Longitude= -2.294615
+Raw latitude = +47
+275502167
+Raw longitude = -2
+294614500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14070600
+Hour = 14
+Minute = 7
+Second = 6
+Centisecond = 0
+Raw speed in 100ths/knot = 140
+Speed in knots/h = 1.40
+Speed in miles/h = 1.61
+Speed in m/s = 0.72
+Speed in km/h = 2.59
+Raw course in degrees = 8216
+Course in degrees = 82.16
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,82.16,T,,M,1.403,N,2.598,K,A*00
+$GPGGA,140706.00,4716.9
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.07*09
+$GPGSV,3,1,09,10,25,281,27,12,59,219,40,15,31,166,33,17,,,33*4A
+$GPGSV,3,2,09,19,36,075,39,23,,,23,24,81,057,44,25,28,230,23*44
+$GPGSV,3,3,09,32,,,36*74
+$GPGLL,4716.53002,N,00217.67565,W,140708.00,A,A*72
+$GPRMC,140709.00,A,4716.53012,N,00217.67508,W,1.271,,241222,,,A*60
+Latitude= 47.275501 Longitude= -2.294585
+Raw latitude = +47
+275502000
+Raw longitude = -2
+294584667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14070900
+Hour = 14
+Minute = 7
+Second = 9
+Centisecond = 0
+Raw speed in 100ths/knot = 127
+Speed in knots/h = 1.27
+Speed in miles/h = 1.46
+Speed in m/s = 0.65
+Speed in km/h = 2.35
+Raw course in degrees = 8216
+Course in degrees = 82.16
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.271,N,2.353,K,A*21
+$GPGGA,140709.00,4716.53012,*76
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.97,1.90,2.29*00
+$GPGSV,3,1,09,10,25,281,42,12,59,219,40,15,31,166,23,17,,,32*49
+$GPGSV,3,2,09,19,36,075,39,23,,,26,24,81,057,44,25,28,230,31*42
+$GPGSV,3,3,09,32,,,33*71
+$GPGLL,4716.53006,N,00217.67330,W,140711.00,A,A*78
+$GPRMC,140712.00,A,4716.53037,N,00217.67299,W,1.120,,241222,,,A*65
+Latitude= 47.275505 Longitude= -2.294550
+Raw latitude = +47
+275506167
+Raw longitude = -2
+294549833
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14071200
+Hour = 14
+Minute = 7
+Second = 12
+Centisecond = 0
+Raw speed in 100ths/knot = 112
+Speed in knots/h = 1.12
+Speed in miles/h = 1.29
+Speed in m/s = 0.58
+Speed in km/h = 2.07
+Raw course in degrees = 8216
+Course in degrees = 82.16
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.120,N,2.074,K,A*20
+$GPGGA,140712.00,4716.5303772
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.45,1.30,2.07*09
+$GPGSV,3,1,10,10,25,281,42,12,59,219,38,15,31,166,23,17,,,33*4F
+$GPGSV,3,2,10,19,36,075,38,23,,,31,24,81,057,44,25,28,230,33*4F
+$GPGSV,3,3,10,31,,,22,32,,,39*71
+$GPGLL,4716.53121,N,00217.67254,W,140714.00,A,A*7A
+$GPRMC,140715.00,A,4716.53128,N,00217.67186,W,1.462,,241222,,,A*63
+Latitude= 47.275520 Longitude= -2.294531
+Raw latitude = +47
+275521333
+Raw longitude = -2
+294531000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14071500
+Hour = 14
+Minute = 7
+Second = 15
+Centisecond = 0
+Raw speed in 100ths/knot = 146
+Speed in knots/h = 1.46
+Speed in miles/h = 1.68
+Speed in m/s = 0.75
+Speed in km/h = 2.70
+Raw course in degrees = 8216
+Course in degrees = 82.16
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.462,N,2.708,K,A*2F
+$GPGGA,140715.00,4716.531288.7,M,,*76
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.44,1.30,2.07*08
+$GPGSV,3,1,09,10,25,281,36,12,59,219,37,15,31,166,30,17,,,28*43
+$GPGSV,3,2,09,19,36,075,39,23,,,36,24,81,057,43,25,28,230,38*4D
+$GPGSV,3,3,09,32,,,31*73
+$GPGLL,4716.53222,N,00217.67142,W,140717.00,A,A*7D
+$GPRMC,140718.00,A,4716.53277,N,00217.67142,W,1.459,28.73,241222,,,A*47
+Latitude= 47.275547 Longitude= -2.294524
+Raw latitude = +47
+275546167
+Raw longitude = -2
+294523667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14071800
+Hour = 14
+Minute = 7
+Second = 18
+Centisecond = 0
+Raw speed in 100ths/knot = 145
+Speed in knots/h = 1.45
+Speed in miles/h = 1.67
+Speed in m/s = 0.75
+Speed in km/h = 2.69
+Raw course in degrees = 2873
+Course in degrees = 28.73
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,28.73,T,,M,1.459,N,2.702,K,A*0D
+$GPGGA,140718.00,4716.GSA,A,3,24,12,19,15,25,10,,,,,,,2.44,1.30,2.07*08
+$GPGSV,3,1,09,10,25,281,33,12,59,219,38,15,31,166,34,17,,,32*46
+$GPGSV,3,2,09,19,36,075,34,23,,,32,24,81,057,44,25,28,230,38*43
+$GPGSV,3,3,09,32,,,30*72
+$GPGLL,4716.53352,N,00217.67114,W,140720.00,A,A*7C
+$GPRMC,140721.00,A,4716.53405,N,00217.67118,W,2.217,7.37,241222,,,A*73
+Latitude= 47.275566 Longitude= -2.294520
+Raw latitude = +47
+275567500
+Raw longitude = -2
+294519667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14072100
+Hour = 14
+Minute = 7
+Second = 21
+Centisecond = 0
+Raw speed in 100ths/knot = 221
+Speed in knots/h = 2.21
+Speed in miles/h = 2.54
+Speed in m/s = 1.14
+Speed in km/h = 4.09
+Raw course in degrees = 737
+Course in degrees = 7.37
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,7.37,T,,M,2.217,N,4.106,K,A*3B
+$GPGGA,140721.00,4716.534.0,M,48.7,M,,*76
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.44,1.30,2.07*08
+$GPGSV,3,1,09,10,25,281,40,12,59,219,36,15,31,166,33,17,,,25*4D
+$GPGSV,3,2,09,19,36,075,31,23,,,24,24,81,057,42,25,28,230,28*46
+$GPGSV,3,3,09,32,,,30*72
+$GPGLL,4716.53503,N,00217.67130,W,140723.00,A,A*7B
+$GPRMC,140724.00,A,4716.53573,N,00217.67126,W,2.934,3.33,241222,,,A*71
+Latitude= 47.275596 Longitude= -2.294521
+Raw latitude = +47
+275595500
+Raw longitude = -2
+294521000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14072400
+Hour = 14
+Minute = 7
+Second = 24
+Centisecond = 0
+Raw speed in 100ths/knot = 293
+Speed in knots/h = 2.93
+Speed in miles/h = 3.37
+Speed in m/s = 1.51
+Speed in km/h = 5.43
+Raw course in degrees = 333
+Course in degrees = 3.33
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,3.33,T,,M,2.934,N,5.434,K,A*34
+$GPGGA,140724.00,4716.5M,,*71
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.44,1.30,2.07*08
+$GPGSV,3,1,09,10,25,281,42,12,59,219,37,15,31,166,36,17,,,34*4B
+$GPGSV,3,2,09,19,36,075,35,23,,,31,24,81,057,41,25,28,230,39*45
+$GPGSV,3,3,09,32,,,40*75
+$GPGLL,4716.53730,N,00217.67099,W,140726.00,A,A*7E
+$GPRMC,140727.00,A,4716.53810,N,00217.67068,W,2.730,3.85,241222,,,A*76
+Latitude= 47.275634 Longitude= -2.294511
+Raw latitude = +47
+275635000
+Raw longitude = -2
+294511333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14072700
+Hour = 14
+Minute = 7
+Second = 27
+Centisecond = 0
+Raw speed in 100ths/knot = 273
+Speed in knots/h = 2.73
+Speed in miles/h = 3.14
+Speed in m/s = 1.40
+Speed in km/h = 5.06
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,3.85,T,,M,2.730,N,5.056,K,A*33
+$GPGGA,140727.00,4716.5,,*76
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.44,1.30,2.07*08
+$GPGSV,3,1,09,10,25,281,37,12,59,219,42,15,31,166,35,17,,,24*49
+$GPGSV,3,2,09,19,36,075,31,23,,,35,24,81,057,43,25,28,230,36*48
+$GPGSV,3,3,09,32,,,25*76
+$GPGLL,4716.53954,N,00217.67047,W,140729.00,A,A*7E
+$GPRMC,140730.00,A,4716.53990,N,00217.67045,W,0.559,,241222,,,A*69
+Latitude= 47.275665 Longitude= -2.294507
+Raw latitude = +47
+275665000
+Raw longitude = -2
+294507500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14073000
+Hour = 14
+Minute = 7
+Second = 30
+Centisecond = 0
+Raw speed in 100ths/knot = 55
+Speed in knots/h = 0.55
+Speed in miles/h = 0.63
+Speed in m/s = 0.28
+Speed in km/h = 1.02
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,0.559,N,1.035,K,A*2D
+$GPGGA,140730.00,4716.53990M,,*7E
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.44,1.30,2.07*08
+$GPGSV,3,1,09,10,25,281,20,12,59,219,49,15,31,166,37,17,,,21*43
+$GPGSV,3,2,09,19,36,075,24,23,,,32,24,81,057,39,25,28,230,32*42
+$GPGSV,3,3,09,32,,,20*73
+$GPGLL,4716.53961,N,00217.67112,W,140732.00,A,A*73
+$GPRMC,140733.00,A,4716.53942,N,00217.67144,W,1.093,,241222,,,A*67
+Latitude= 47.275657 Longitude= -2.294524
+Raw latitude = +47
+275657000
+Raw longitude = -2
+294524000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14073300
+Hour = 14
+Minute = 7
+Second = 33
+Centisecond = 0
+Raw speed in 100ths/knot = 109
+Speed in knots/h = 1.09
+Speed in miles/h = 1.25
+Speed in m/s = 0.56
+Speed in km/h = 2.02
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.093,N,2.025,K,A*2D
+$GPGGA,140733.00,4716.539428.7,M,,*79
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,3.42,2.06,2.73*0A
+$GPGSV,3,1,10,10,25,281,22,12,59,219,47,13,,,35,15,31,166,34*45
+$GPGSV,3,2,10,17,,,16,19,36,075,23,23,,,26,24,81,057,37*7A
+$GPGSV,3,3,10,25,28,230,33,32,,,19*4D
+$GPGLL,4716.53925,N,00217.67257,W,140735.00,A,A*76
+$GPRMC,140736.00,A,4716.53932,N,00217.67321,W,1.277,,241222,,,A*6C
+Latitude= 47.275653 Longitude= -2.294553
+Raw latitude = +47
+275655333
+Raw longitude = -2
+294553500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14073600
+Hour = 14
+Minute = 7
+Second = 36
+Centisecond = 0
+Raw speed in 100ths/knot = 127
+Speed in knots/h = 1.27
+Speed in miles/h = 1.46
+Speed in m/s = 0.65
+Speed in km/h = 2.35
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.277,N,2.365,K,A*22
+$GPGGA,140736.00,4716.53932M,,*75
+$GPGSA,A,3,24,12,19,15,10,,,,,,,,2.53,1.38,2.11*06
+$GPGSV,3,1,10,10,25,281,28,12,59,219,40,13,,,33,15,31,166,23*48
+$GPGSV,3,2,10,17,,,20,19,36,075,26,23,,,24,24,81,057,41*79
+$GPGSV,3,3,10,25,28,230,,32,,,23*44
+$GPGLL,4716.53964,N,00217.67393,W,140738.00,A,A*77
+$GPRMC,140739.00,A,4716.53977,N,00217.67399,W,0.125,,241222,,,A*64
+Latitude= 47.275661 Longitude= -2.294566
+Raw latitude = +47
+275662833
+Raw longitude = -2
+294566500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14073900
+Hour = 14
+Minute = 7
+Second = 39
+Centisecond = 0
+Raw speed in 100ths/knot = 12
+Speed in knots/h = 0.12
+Speed in miles/h = 0.14
+Speed in m/s = 0.06
+Speed in km/h = 0.22
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,0.125,N,0.231,K,A*25
+$GPGGA,140739.00,4716.53977,48.7,M,,*79
+$GPGSA,A,3,24,12,19,15,10,,,,,,,,2.52,1.38,2.11*07
+$GPGSV,3,1,10,10,25,280,31,12,59,219,27,13,,,34,15,31,166,40*42
+$GPGSV,3,2,10,17,,,18,19,36,075,41,23,,,22,24,81,057,39*7A
+$GPGSV,3,3,10,25,28,230,,32,,,23*44
+$GPGLL,4716.53958,N,00217.67417,W,140741.00,A,A*7D
+$GPRMC,140742.00,A,4716.53876,N,00217.67405,W,2.871,,241222,,,A*60
+Latitude= 47.275646 Longitude= -2.294568
+Raw latitude = +47
+275646000
+Raw longitude = -2
+294567500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14074200
+Hour = 14
+Minute = 7
+Second = 42
+Centisecond = 0
+Raw speed in 100ths/knot = 287
+Speed in knots/h = 2.87
+Speed in miles/h = 3.30
+Speed in m/s = 1.48
+Speed in km/h = 5.32
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,2.871,N,5.317,K,A*2F
+$GPGGA,140742.00,4716.53876$GPGSA,A,3,24,12,19,15,10,,,,,,,,2.52,1.38,2.11*07
+$GPGSV,3,1,10,10,25,280,21,12,60,220,24,13,,,30,15,31,166,34*47
+$GPGSV,3,2,10,17,,,34,19,36,075,32,23,,,19,24,81,057,38*79
+$GPGSV,3,3,10,25,28,230,20,32,,,15*43
+$GPGLL,4716.53758,N,00217.67436,W,140744.00,A,A*75
+$GPRMC,140745.00,A,4716.53623,N,00217.67429,W,3.090,,241222,,,A*61
+Latitude= 47.275604 Longitude= -2.294571
+Raw latitude = +47
+275603833
+Raw longitude = -2
+294571500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14074500
+Hour = 14
+Minute = 7
+Second = 45
+Centisecond = 0
+Raw speed in 100ths/knot = 309
+Speed in knots/h = 3.09
+Speed in miles/h = 3.56
+Speed in m/s = 1.59
+Speed in km/h = 5.72
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,3.090,N,5.722,K,A*2B
+$GPGGA,140745.00,4716.53623*70
+$GPGSA,A,3,24,12,19,15,25,,,,,,,,3.42,2.06,2.73*0B
+$GPGSV,3,1,11,01,00,002,19,10,25,280,,12,60,220,44,13,,,31*49
+$GPGSV,3,2,11,15,30,166,35,17,,,31,19,36,075,39,23,,,29*73
+$GPGSV,3,3,11,24,81,057,37,25,28,230,38,32,,,17*70
+$GPGLL,4716.53502,N,00217.67508,W,140747.00,A,A*77
+$GPRMC,140748.00,A,4716.53441,N,00217.67561,W,1.736,,241222,,,A*6E
+Latitude= 47.275573 Longitude= -2.294594
+Raw latitude = +47
+275573500
+Raw longitude = -2
+294593500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14074800
+Hour = 14
+Minute = 7
+Second = 48
+Centisecond = 0
+Raw speed in 100ths/knot = 173
+Speed in knots/h = 1.73
+Speed in miles/h = 1.99
+Speed in m/s = 0.89
+Speed in km/h = 3.20
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.736,N,3.215,K,A*25
+$GPGGA,140748.00,4716.53441D
+$GPGSA,A,3,24,12,19,15,25,,,,,,,,3.42,2.06,2.73*0B
+$GPGSV,3,1,11,01,00,002,18,10,25,280,,12,60,220,46,13,,,29*43
+$GPGSV,3,2,11,15,30,166,37,17,,,20,19,36,074,24,23,,,39*7D
+$GPGSV,3,3,11,24,81,057,26,25,28,230,32,32,,,22*7C
+$GPGLL,4716.53521,N,00217.67685,W,140750.00,A,A*76
+$GPRMC,140751.00,A,4716.53480,N,00217.67721,W,1.124,,241222,,,A*68
+Latitude= 47.275581 Longitude= -2.294620
+Raw latitude = +47
+275580000
+Raw longitude = -2
+294620167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14075100
+Hour = 14
+Minute = 7
+Second = 51
+Centisecond = 0
+Raw speed in 100ths/knot = 112
+Speed in knots/h = 1.12
+Speed in miles/h = 1.29
+Speed in m/s = 0.58
+Speed in km/h = 2.07
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.124,N,2.081,K,A*2E
+$GPGGA,140751.00,4716.53480A
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,3.42,2.06,2.73*0A
+$GPGSV,3,1,11,01,00,002,,10,25,280,13,12,60,220,46,13,,,22*43
+$GPGSV,3,2,11,15,30,166,41,17,,,16,19,36,074,21,23,,,29*7D
+$GPGSV,3,3,11,24,81,057,36,25,28,230,34,32,,,22*7B
+$GPGLL,4716.53475,N,00217.67844,W,140753.00,A,A*76
+$GPRMC,140754.00,A,4716.53550,N,00217.67939,W,1.657,,241222,,,A*65
+Latitude= 47.275592 Longitude= -2.294656
+Raw latitude = +47
+275591667
+Raw longitude = -2
+294656500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14075400
+Hour = 14
+Minute = 7
+Second = 54
+Centisecond = 0
+Raw speed in 100ths/knot = 165
+Speed in knots/h = 1.65
+Speed in miles/h = 1.90
+Speed in m/s = 0.85
+Speed in km/h = 3.06
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.657,N,3.068,K,A*2B
+$GPGGA,140754.00,4716.535507,M,,*71
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.44,1.30,2.07*08
+$GPGSV,3,1,11,01,00,002,20,10,25,280,38,12,60,220,38,13,,,20*43
+$GPGSV,3,2,11,15,30,166,28,17,,,15,19,36,074,20,23,,,39*71
+$GPGSV,3,3,11,24,81,059,31,25,29,230,42,32,,,20*70
+$GPGLL,4716.53637,N,00217.67894,W,140756.00,A,A*7A
+$GPRMC,140757.00,A,4716.53693,N,00217.67871,W,1.599,,241222,,,A*66
+Latitude= 47.275615 Longitude= -2.294645
+Raw latitude = +47
+275615500
+Raw longitude = -2
+294645167
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14075700
+Hour = 14
+Minute = 7
+Second = 57
+Centisecond = 0
+Raw speed in 100ths/knot = 159
+Speed in knots/h = 1.59
+Speed in miles/h = 1.83
+Speed in m/s = 0.82
+Speed in km/h = 2.94
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 4
+HDOP = 212
+
+$GPVTG,,T,,M,1.599,N,2.962,K,A*28
+$GPGGA,140757.00,4716.53693
+$GPGSA,A,3,24,12,15,25,,,,,,,,,6.64,3.79,5.45*09
+$GPGSV,3,1,09,01,00,002,,10,25,280,,12,60,220,48,13,,,13*44
+$GPGSV,3,2,09,15,30,166,42,19,36,074,,23,,,35,24,81,059,22*4B
+$GPGSV,3,3,09,25,29,230,40*49
+$GPGLL,4716.53801,N,00217.67941,W,140759.00,A,A*77
+⸮$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-G60xx  00040007 FF7FFFFFp*53
+$GPTXT,01,01,02,ROM CORE 7.03 (45969) Mar 17 2011 16:18:34*59
+$GPTXT,01,01,02,ANTSUPERV=AC SD PDoS SR*20
+$GPTXT,01,01,02,ANTSTATUS=DONTKNOW*33
+$GPRMC,140759.97,V,,,,,,,241222,,,N*78
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140759.97,,,,,0,00,99.99,,,,,,*66
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,60,220,,15,30,166,*71
+$GPGSV,2,2,07,19,36,074,,24,81,060,,25,29,230,*44
+$GPGLL,,,,,140759.97,V,N*4A
+$GPTXT,01,01,02,ANTSTATUS=INIT*25
+$GPRMC,140801.00,A,4716.53642,N,00217.68988,W,1.409,,241222,,,A*66
+Latitude= 47.275608 Longitude= -2.294831
+Raw latitude = +47
+275607000
+Raw longitude = -2
+294831333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14080100
+Hour = 14
+Minute = 8
+Second = 1
+Centisecond = 0
+Raw speed in 100ths/knot = 140
+Speed in knots/h = 1.40
+Speed in miles/h = 1.61
+Speed in m/s = 0.72
+Speed in km/h = 2.59
+Raw course in degrees = 385
+Course in degrees = 3.85
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,1.409,N,2.610,K,A*2A
+$GPGGA,140801.00,4716.5364231.6,M,48.7,M,,*75
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,9.08,5.01,7.58*02
+$GPGSV,2,1,08,01,00,002,,10,25,280,38,12,60,220,45,15,30,166,40*70
+$GPGSV,2,2,08,19,36,074,21,23,,,37,24,81,060,43,25,29,230,38*41
+$GPGLL,4716.53400,N,00217.67931,W,140803.00,A,A*7D
+$GPRMC,140804.00,A,4716.53300,N,00217.67776,W,7.765,90.58,241222,,,A*45
+Latitude= 47.275550 Longitude= -2.294629
+Raw latitude = +47
+275550000
+Raw longitude = -2
+294629333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14080400
+Hour = 14
+Minute = 8
+Second = 4
+Centisecond = 0
+Raw speed in 100ths/knot = 776
+Speed in knots/h = 7.76
+Speed in miles/h = 8.93
+Speed in m/s = 3.99
+Speed in km/h = 14.37
+Raw course in degrees = 9058
+Course in degrees = 90.58
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,90.58,T,,M,7.765,N,14.382,K,A*36
+$GPGGA,140804.00,4716,M,,*74
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,3.01,1.94,2.30*02
+$GPGSV,2,1,08,01,00,002,,10,25,280,37,12,60,220,45,15,30,166,36*7E
+$GPGSV,2,2,08,19,36,074,41,23,,,37,24,81,060,40,25,29,230,39*45
+$GPGLL,4716.53392,N,00217.68153,W,140806.00,A,A*77
+$GPRMC,140807.00,A,4716.53334,N,00217.68059,W,2.463,158.76,241222,,,A*7D
+Latitude= 47.275554 Longitude= -2.294677
+Raw latitude = +47
+275555667
+Raw longitude = -2
+294676500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14080700
+Hour = 14
+Minute = 8
+Second = 7
+Centisecond = 0
+Raw speed in 100ths/knot = 246
+Speed in knots/h = 2.46
+Speed in miles/h = 2.83
+Speed in m/s = 1.27
+Speed in km/h = 4.56
+Raw course in degrees = 15876
+Course in degrees = 158.76
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,158.76,T,,M,2.463,N,4.561,K,A*35
+$GPGGA,140807.00,47163,24,12,19,15,25,10,,,,,,,2.44,1.30,2.06*09
+$GPGSV,2,1,08,01,00,002,,10,25,280,29,12,60,220,37,15,30,166,41*74
+$GPGSV,2,2,08,19,36,074,38,23,,,33,24,81,060,44,25,29,230,32*40
+$GPGLL,4716.53267,N,00217.67998,W,140809.00,A,A*73
+$GPRMC,140810.00,A,4716.53239,N,00217.68017,W,0.496,,241222,,,A*66
+Latitude= 47.275539 Longitude= -2.294670
+Raw latitude = +47
+275539833
+Raw longitude = -2
+294669500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14081000
+Hour = 14
+Minute = 8
+Second = 10
+Centisecond = 0
+Raw speed in 100ths/knot = 49
+Speed in knots/h = 0.49
+Speed in miles/h = 0.56
+Speed in m/s = 0.25
+Speed in km/h = 0.91
+Raw course in degrees = 15876
+Course in degrees = 158.76
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,0.49⸮$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-G60xx  00040007 FF7FFFFFp*53
+$GPTXT,01,01,02,ROM CORE 7.03 (45969) Mar 17 2011 16:18:34*59
+$GPTXT,01,01,02,ANTSUPERV=AC SD PDoS SR*20
+$GPTXT,01,01,02,ANTSTATUS=DONTKNOW*33
+$GPRMC,140816.60,V,,,,,,,241222,,,N*74
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140816.60,,,,,0,00,99.99,,,,,,*6A
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,60,220,,15,30,166,*71
+$GPGSV,2,2,07,19,36,074,,24,81,060,,25,29,231,*45
+$GPGLL,,,,,140816.60,V,N*46
+$GPRMC,140817.00,V,,,,,,,241222,,,N*73
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140817.00,,,,,0,00,99.99,,,,,,*6D
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,60,220,,15,30,166,*71
+$GPGSV,2,2,07,19,36,074,,24,81,060,,25,29,231,*45
+$GPGLL,,,,,140817.00,V,N*41
+$GPTXT,01,01,02,ANTSTATUS=INIT*25
+$GPRMC,140818.00,V,,,,,,,241222,,,N*7C
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140818.00,,,,,0,00,99.99,,,,,,*62
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,19,10,25,280,,12,60,220,,15,30,166,*79
+$GPGSV,2,2,07,19,36,074,,24,81,060,,25,29,231,*45
+$GPGLL,,,,,140818.00,V,N*4E
+$GPTXT,01,01,02,ANTSTATUS=OK*3B
+$GPRMC,140819.00,A,4716.52726,N,00217.67870,W,5.311,307.37,241222,,,A*70
+Latitude= 47.275455 Longitude= -2.294645
+Raw latitude = +47
+275454333
+Raw longitude = -2
+294645000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14081900
+Hour = 14
+Minute = 8
+Second = 19
+Centisecond = 0
+Raw speed in 100ths/knot = 531
+Speed in knots/h = 5.31
+Speed in miles/h = 6.11
+Speed in m/s = 2.73
+Speed in km/h = 9.83
+Raw course in degrees = 30737
+Course in degrees = 307.37
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,307.37,T,,M,5.311,N,9.837,K,A*3E
+$GPGGA,140819.00,4716,1.30,2.06*09
+$GPGSV,3,1,09,01,00,002,,10,25,280,32,12,60,220,41,15,30,166,38*71
+$GPGSV,3,2,09,19,36,074,38,23,,,38,24,81,060,45,25,29,231,41*4F
+$GPGSV,3,3,09,32,,,39*7B
+$GPGLL,4716.52982,N,00217.67943,W,140821.00,A,A*7E
+$GPRMC,140822.00,A,4716.52953,N,00217.67960,W,0.669,287.88,241222,,,A*76
+Latitude= 47.275493 Longitude= -2.294660
+Raw latitude = +47
+275492167
+Raw longitude = -2
+294660000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14082200
+Hour = 14
+Minute = 8
+Second = 22
+Centisecond = 0
+Raw speed in 100ths/knot = 66
+Speed in knots/h = 0.66
+Speed in miles/h = 0.76
+Speed in m/s = 0.34
+Speed in km/h = 1.22
+Raw course in degrees = 28788
+Course in degrees = 287.88
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,287.88,T,,M,0.669,N,1.240,K,A*3E
+$GPGGA,140822.00,4716,3,24,12,19,15,25,10,,,,,,,2.44,1.30,2.06*09
+$GPGSV,3,1,09,01,00,002,,10,25,280,31,12,60,220,41,15,30,166,36*7C
+$GPGSV,3,2,09,19,36,074,38,23,,,38,24,81,060,45,25,29,231,41*4F
+$GPGSV,3,3,09,32,,,42*77
+$GPGLL,4716.52934,N,00217.67952,W,140824.00,A,A*76
+$GPRMC,140825.00,A,4716.52949,N,00217.67960,W,0.512,,241222,,,A*66
+Latitude= 47.275489 Longitude= -2.294660
+Raw latitude = +47
+275491500
+Raw longitude = -2
+294660000
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14082500
+Hour = 14
+Minute = 8
+Second = 25
+Centisecond = 0
+Raw speed in 100ths/knot = 51
+Speed in knots/h = 0.51
+Speed in miles/h = 0.59
+Speed in m/s = 0.26
+Speed in km/h = 0.94
+Raw course in degrees = 28788
+Course in degrees = 287.88
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,0.512,N,0.947,K,A*2F
+$GPGGA,140825.00,4716.52949GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.44,1.30,2.06*09
+$GPGSV,3,1,09,01,00,002,,10,25,280,31,12,60,220,41,15,30,166,36*7C
+$GPGSV,3,2,09,19,36,074,38,23,,,39,24,81,060,45,25,29,231,41*4E
+$GPGSV,3,3,09,32,,,42*77
+$GPGLL,4716.52955,N,00217.67958,W,140827.00,A,A*78
+$GPRMC,140828.00,A,4716.52943,N,00217.67946,W,0.065,,241222,,,A*60
+Latitude= 47.275489 Longitude= -2.294658
+Raw latitude = +47
+275490500
+Raw longitude = -2
+294657667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14082800
+Hour = 14
+Minute = 8
+Second = 28
+Centisecond = 0
+Raw speed in 100ths/knot = 6
+Speed in knots/h = 0.06
+Speed in miles/h = 0.07
+Speed in m/s = 0.03
+Speed in km/h = 0.11
+Raw course in degrees = 28788
+Course in degrees = 287.88
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,0.065,N,0.121,K,A*22
+$GPGGA,140828.00,4716.52943$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.44,1.30,2.06*09
+$GPGSV,3,1,09,01,00,002,,10,25,280,31,12,60,220,41,15,30,166,30*7A
+$GPGSV,3,2,09,19,36,074,37,23,,,37,24,81,060,44,25,29,231,40*4F
+$GPGSV,3,3,09,32,,,42*77
+$GPGLL,4716.52948,N,00217.67940,W,140830.00,A,A*7B
+$GPRMC,140831.00,A,4716.52953,N,00217.67933,W,0.069,,241222,,,A*67
+Latitude= 47.275493 Longitude= -2.294656
+Raw latitude = +47
+275492167
+Raw longitude = -2
+294655500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14083100
+Hour = 14
+Minute = 8
+Second = 31
+Centisecond = 0
+Raw speed in 100ths/knot = 6
+Speed in knots/h = 0.06
+Speed in miles/h = 0.07
+Speed in m/s = 0.03
+Speed in km/h = 0.11
+Raw course in degrees = 28788
+Course in degrees = 287.88
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,0.069,N,0.128,K,A*27
+$GPGGA,140831.00,4716.529537B
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.43,1.30,2.06*0E
+$GPGSV,3,1,09,01,00,002,,10,25,280,31,12,60,220,41,15,30,166,30*7A
+$GPGSV,3,2,09,19,36,074,37,23,,,36,24,81,060,44,25,29,231,40*4E
+$GPGSV,3,3,09,32,,,42*77
+$GPGLL,4716.52966,N,00217.67934,W,140833.00,A,A*77
+$GPRMC,140834.00,A,4716.52968,N,00217.67938,W,0.060,,241222,,,A*68
+Latitude= 47.275493 Longitude= -2.294656
+Raw latitude = +47
+275494667
+Raw longitude = -2
+294656333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14083400
+Hour = 14
+Minute = 8
+Second = 34
+Centisecond = 0
+Raw speed in 100ths/knot = 6
+Speed in knots/h = 0.06
+Speed in miles/h = 0.07
+Speed in m/s = 0.03
+Speed in km/h = 0.11
+Raw course in degrees = 28788
+Course in degrees = 287.88
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,0.060,N,0.110,K,A*25
+$GPGGA,140834.00,4716.52968SA,A,3,24,12,19,15,25,10,,,,,,,2.43,1.30,2.06*0E
+$GPGSV,2,1,08,01,00,002,,10,25,280,44,12,60,220,40,15,30,166,39*70
+$GPGSV,2,2,08,19,36,074,37,24,81,061,44,25,29,231,24,32,,,38*43
+$GPGLL,4716.53053,N,00217.68018,W,140836.00,A,A*74
+$GPRMC,140837.00,A,4716.53097,N,00217.68041,W,1.789,337.30,241222,,,A*70
+Latitude= 47.275516 Longitude= -2.294673
+Raw latitude = +47
+275516167
+Raw longitude = -2
+294673500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14083700
+Hour = 14
+Minute = 8
+Second = 37
+Centisecond = 0
+Raw speed in 100ths/knot = 178
+Speed in knots/h = 1.78
+Speed in miles/h = 2.05
+Speed in m/s = 0.92
+Speed in km/h = 3.30
+Raw course in degrees = 33730
+Course in degrees = 337.30
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,337.30,T,,M,1.789,N,3.313,K,A*3C
+$GPGGA,140837.00,471679
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,2.43,1.30,2.06*0E
+$GPGSV,2,1,08,01,00,002,,10,25,280,39,12,60,220,40,15,30,166,38*7B
+$GPGSV,2,2,08,19,36,074,36,24,81,061,44,25,29,231,35,32,,,29*42
+$GPGLL,4716.53222,N,00217.68040,W,140839.00,A,A*72
+$GPRMC,140840.00,A,4716.53296,N,00217.68048,W,2.131,4.47,241222,,,A*7F
+Latitude= 47.275550 Longitude= -2.294675
+Raw latitude = +47
+275549333
+Raw longitude = -2
+294674667
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14084000
+Hour = 14
+Minute = 8
+Second = 40
+Centisecond = 0
+Raw speed in 100ths/knot = 213
+Speed in knots/h = 2.13
+Speed in miles/h = 2.45
+Speed in m/s = 1.10
+Speed in km/h = 3.94
+Raw course in degrees = 447
+Course in degrees = 4.47
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,4.47,T,,M,2.131,N,3.946,K,A*33
+$GPGGA,140840.00,4716.5,24,12,19,15,25,,,,,,,,3.42,2.06,2.73*0B
+$GPGSV,2,1,08,01,00,002,,10,25,280,,12,60,220,41,15,30,166,33*7B
+$GPGSV,2,2,08,19,36,074,22,24,81,061,33,25,29,231,39,32,,,19*48
+$GPGLL,4716.53414,N,00217.68015,W,140842.00,A,A*7D
+$GPRMC,140843.00,A,4716.53443,N,00217.68029,W,0.445,,241222,,,A*68
+Latitude= 47.275573 Longitude= -2.294672
+Raw latitude = +47
+275573833
+Raw longitude = -2
+294671500
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14084300
+Hour = 14
+Minute = 8
+Second = 43
+Centisecond = 0
+Raw speed in 100ths/knot = 44
+Speed in knots/h = 0.44
+Speed in miles/h = 0.51
+Speed in m/s = 0.23
+Speed in km/h = 0.81
+Raw course in degrees = 447
+Course in degrees = 4.47
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,0.445,N,0.823,K,A*2F
+$GPGGA,140843.00,4716.53443,M,,*74
+$GPGSA,A,3,24,12,15,25,10,,,,,,,,3.64,2.21,2.89*06
+$GPGSV,3,1,09,01,00,002,,10,25,280,20,12,60,220,24,15,30,166,35*7C
+$GPGSV,3,2,09,19,36,074,,23,,,30,24,81,061,25,25,29,231,40*4A
+$GPGSV,3,3,09,32,,,23*70
+$GPGLL,4716.53448,N,00217.68049,W,140845.00,A,A*7A
+$GPRMC,140846.00,A,4716.53474,N,00217.68016,W,1.175,,241222,,,A*62
+Latitude= 47.275577 Longitude= -2.294669
+Raw latitude = +47
+275579000
+Raw longitude = -2
+294669333
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14084600
+Hour = 14
+Minute = 8
+Second = 46
+Centisecond = 0
+Raw speed in 100ths/knot = 117
+Speed in knots/h = 1.17
+Speed in miles/h = 1.35
+Speed in m/s = 0.60
+Speed in km/h = 2.17
+Raw course in degrees = 447
+Course in degrees = 4.47
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,1.175,N,2.176,K,A*23
+$GPGGA,140846.00,4716.53474
+$GPGSA,A,3,24,12,19,15,25,10,,,,,,,3.64,2.21,2.89*0E
+$GPGSV,3,1,09,01,00,002,,10,25,280,17,12,60,220,27,15,30,166,32*7C
+$GPGSV,3,2,09,19,36,074,15,23,,,32,24,81,061,21,25,29,231,33*4C
+$GPGSV,3,3,09,32,,,17*77
+$GPGLL,4716.53548,N,00217.67991,W,140848.00,A,A*75
+$GPRMC,140849.00,A,4716.53539,N,00217.68007,W,0.381,,241222,,,A*6D
+Latitude= 47.275588 Longitude= -2.294668
+Raw latitude = +47
+275589833
+Raw longitude = -2
+294667833
+Raw date DDMMYY = 241222
+Year = 2022
+Month = 12
+Day = 24
+Raw time in HHMMSSCC = 14084900
+Hour = 14
+Minute = 8
+Second = 49
+Centisecond = 0
+Raw speed in 100ths/knot = 38
+Speed in knots/h = 0.38
+Speed in miles/h = 0.44
+Speed in m/s = 0.20
+Speed in km/h = 0.70
+Raw course in degrees = 447
+Course in degrees = 4.47
+Raw altitude in centimeters = 2900
+Altitude in meters = 29.00
+Altitude in miles = 0.02
+Altitude in kilometers = 0.03
+Altitude in feet = 95.14
+Number os satellites in use = 0
+HDOP = 9999
+
+$GPVTG,,T,,M,0.381,N,0.705,K,A*2B
+$GPGGA,140849.00,4716.53539$GPTXT,01,01,02,u-blox ag - www.u-blox.com*50
+$GPTXT,01,01,02,HW  UBX-G60xx  00040007 FF7FFFFFp*53
+$GPTXT,01,01,02,ROM CORE 7.03 (45969) Mar 17 2011 16:18:34*59
+$GPTXT,01,01,02,ANTSUPERV=AC SD PDoS SR*20
+$GPTXT,01,01,02,ANTSTATUS=DONTKNOW*33
+$GPRMC,140851.36,V,,,,,,,241222,,,N*74
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140851.36,,,,,0,00,99.99,,,,,,*6A
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,60,220,,15,30,166,*71
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,*47
+$GPGLL,,,,,140851.36,V,N*46
+$GPRMC,140852.00,V,,,,,,,241222,,,N*72
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140852.00,,,,,0,00,99.99,,,,,,*6C
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,60,220,,15,30,166,29*7A
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,*47
+$GPGLL,,,,,140852.00,V,N*40
+$GPTXT,01,01,02,ANTSTATUS=INIT*25
+$GPRMC,140853.00,V,,,,,,,241222,,,N*73
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140853.00,,,,,0,00,99.99,,,,,,*6D
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,60,220,23,15,30,166,31*72
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,*47
+$GPGLL,,,,,140853.00,V,N*41
+$GPTXT,01,01,02,ANTSTATUS=OK*3B
+$GPRMC,140854.00,V,,,,,,,241222,,,N*74
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140854.00,,,,,0,00,99.99,,,,,,*6A
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,60,220,23,15,30,166,33*70
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,*47
+$GPGLL,,,,,140854.00,V,N*46
+$GPRMC,140855.00,V,,,,,,,241222,,,N*75
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140855.00,,,,,0,00,99.99,,,,,,*6B
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,60,220,23,15,30,166,33*70
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,*47
+$GPGLL,,,,,140855.00,V,N*47
+$GPRMC,140856.00,V,,,,,,,241222,,,N*76
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140856.00,,,,,0,00,99.99,,,,,,*68
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,60,220,22,15,30,166,36*74
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,*47
+$GPGLL,,,,,140856.00,V,N*44
+$GPRMC,140857.00,V,,,,,,,241222,,,N*77
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140857.00,,,,,0,00,99.99,,,,,,*69
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,61,220,21,15,30,166,36*76
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,21*44
+$GPGLL,,,,,140857.00,V,N*45
+$GPRMC,140858.00,V,,,,,,,241222,,,N*78
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140858.00,,,,,0,00,99.99,,,,,,*66
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,61,220,22,15,30,166,37*74
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,22*47
+$GPGLL,,,,,140858.00,V,N*4A
+$GPRMC,140859.00,V,,,,,,,241222,,,N*79
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140859.00,,,,,0,00,99.99,,,,,,*67
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,61,220,21,15,30,166,35*75
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,21*44
+$GPGLL,,,,,140859.00,V,N*4B
+$GPRMC,140859.50,V,,,,,,,241222,,,N*7C
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140859.50,,,,,0,03,4.94,,,,,,*58
+$GPGSA,A,1,12,15,25,,,,,,,,,,5.04,4.94,1.00*09
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,61,220,20,15,30,166,31*70
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,23*46
+$GPGLL,,,,,140859.50,V,N*4E
+$GPRMC,140900.00,V,,,,,,,241222,,,N*74
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140900.00,,,,,0,03,4.94,,,,,,*50
+$GPGSA,A,1,12,15,25,,,,,,,,,,5.04,4.94,1.00*09
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,61,220,19,15,30,166,23*79
+$GPGSV,2,2,07,19,36,074,,24,81,062,,25,29,231,22*47
+$GPGLL,,,,,140900.00,V,N*46
+$GPRMC,140901.00,V,,,,,,,241222,,,N*75
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140901.00,,,,,0,04,4.94,,,,,,*56
+$GPGSA,A,1,24,12,15,25,,,,,,,,,5.04,4.94,1.00*0F
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,61,220,18,15,30,166,23*78
+$GPGSV,2,2,07,19,36,074,,24,81,062,15,25,29,231,20*41
+$GPGLL,,,,,140901.00,V,N*47
+$GPRMC,140902.00,V,,,,,,,241222,,,N*76
+$GPVTG,,,,,,,,,N*30
+$GPGGA,140902.00,,,,,0,04,4.93,,,,,,*52
+$GPGSA,A,1,24,12,15,25,,,,,,,,,5.03,4.93,1.00*0F
+$GPGSV,2,1,07,01,00,002,,10,25,280,,12,61,220,17,15,30,166,21*75
+$GPGSV,2,2,07,19,36,074,,24,81,062,13,25,29,231,17*43
+$GPGLL,,,,,140902.00,V,N*44
